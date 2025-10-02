@@ -7,9 +7,9 @@ Installation
 ```sh
 cd /src/me/david
 
-python src/me/david/PisstrScan.py
+python /me/david/PisstrScan.py
 
-python src/me/david/PisstrUtility.py
+python /me/david/PisstrUtility.py
 ```
 Issues And Contributions
 ========================
